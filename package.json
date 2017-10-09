@@ -1,0 +1,23 @@
+{
+  "name": "main2",
+  "version": "1.0.0",
+  "description": "Pagina oficial Bolivia TV version 2018",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiramyampassi/meanwebsite.git"
+  },
+  "author": "BTV Developers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiramyampassi/meanwebsite/issues"
+  },
+  "homepage": "https://github.com/hiramyampassi/meanwebsite#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "mongoose": "^4.10.8"
+  }
+}
